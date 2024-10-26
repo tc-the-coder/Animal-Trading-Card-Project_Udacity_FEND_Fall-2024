@@ -1,0 +1,54 @@
+/* add your CSS here */
+body {
+  border: 1px solid lightgray;
+  width: 350px;
+  box-shadow: 5px 10px;
+}
+.background {
+   background-image: url("https://cdn.pixabay.com/photo/2016/08/22/09/58/background-1611608_1280.jpg");
+background-repeat: no-repeat;
+  margin-top: -25px;
+  margin-bottom: -25px;
+}
+img {
+  width: 300px;
+  padding-left: 25px;
+  border-radius: 8px;
+}
+h3 {
+  font-size: 18pt;
+  color: blue;
+  font-family: "Lucida Handwriting";
+  padding-left: 25px;
+  padding-top: 25px;
+}
+.fact {
+  font-style: italic;
+  font-family: serif;
+  color: blue;
+  font-size: 12.5pt;
+  padding-left: 25px;
+}
+.inner {
+  margin: 25px;
+  border: 1px solid lightgray;
+  width: 300px;
+}
+ul {
+  padding-left: 25px;
+  margin-left: 0;
+}
+.span {
+  font-size: 14pt;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: blue;
+}
+li {
+  list-style-type: none;
+  font-family: sans-serif;
+}
+.description {
+  font-size: 13pt;
+  padding-left: 25px;
+}
